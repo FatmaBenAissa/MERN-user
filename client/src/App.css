@@ -1,0 +1,13 @@
+.box{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 50px;
+  width: 100%;
+}
+
+.add{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
